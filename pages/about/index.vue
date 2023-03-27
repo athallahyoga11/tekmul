@@ -95,7 +95,7 @@
           >
             <div class="flex justify-center">
               <img
-                src="/images/about/bg-circle-ican.png"
+                src=""
                 class="w-32 lg:w-40"
                 alt="Aloysius Bataona M"
               />
@@ -113,7 +113,7 @@
           >
             <div class="flex justify-center">
               <img
-                src="/images/about/bg-circle-iyan.png"
+                src=""
                 class="w-32 lg:w-40"
                 alt="Abdul Zaki"
               />
@@ -131,7 +131,7 @@
           >
             <div class="flex justify-center">
               <img
-                src="/images/about/bg-circle-mada.png"
+                src=""
                 class="w-32 lg:w-40"
                 alt="Fina Keiza Arismana"
               />
@@ -148,7 +148,7 @@
           >
             <div class="flex justify-center">
               <img
-              src="/images/about/bg-circle-fahrizal.png"
+              src=""
                 class="w-32 lg:w-40"
                 alt="Athallah Narda Wiyoga"
               />
@@ -165,7 +165,7 @@
           >
             <div class="flex justify-center">
               <img
-                src="/images/about/bg-circle-fahrizal.png"
+                src=""
                 class="w-32 lg:w-40"
                 alt="Brigita Naraduhita P. P."
               />
@@ -182,7 +182,7 @@
           >
             <div class="flex justify-center">
               <img
-                src="/images/about/bg-circle-nungky.png"
+                src=""
                 class="w-32 lg:w-40"
                 alt="Tarisha Syira Mazaya"
               />
